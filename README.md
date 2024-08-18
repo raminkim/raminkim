@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wingjc9979)](https://solved.ac/wingjc9979)
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=ramin0119&postId=default&theme=tistory)]([https://ramin0119.tistory.com/](https://ramin0119.tistory.com/2))
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=ramin0119&postId=default&theme=tistory)](https://ramin0119.tistory.com)
