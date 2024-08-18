@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 -->
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wingjc9979)](https://solved.ac/wingjc9979)
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=ramin0119&theme=tistory)](https://ramin0119.tistory.com)
+### My blog
+<a href="https://ramin0119.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-eb531f?style=flat-square&logo=Tistory&logoColor=white"/></a>
