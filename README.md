@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wingjc9979)](https://solved.ac/wingjc9979)
+
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={ramin0119})](https://github.com/loosie/github-readme-tistory-card)
